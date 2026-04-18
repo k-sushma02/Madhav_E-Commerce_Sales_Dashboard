@@ -12,3 +12,6 @@ OVERVIEW:
 
 Source Files:
 "C:\Users\harsh\OneDrive\Desktop\Power bi\Source files"
+
+Dashboard Preview:
+https://github.com/k-sushma02/Madhav_E-Commerce_Sales_Dashboard/blob/main/DASHBOARD_SNIP.png
